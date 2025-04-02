@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science related concepts
 - 💞️ I’m looking to collaborate on solving real-time problems
 - 📫 How to reach me through ananth.p.ds@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him 
 
 
 <!---
